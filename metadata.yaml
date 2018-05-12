@@ -1,0 +1,35 @@
+_repo: In-The-Ranks--From-the-Wilderness-to-Appomattox-Court-House--13-The-War-as-Seen-and-Experienc__31075
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McBride, R. E. (Robert Ekin)
+    alias: McBride, Robert Ekin
+    birthdate: 1846
+    gutenberg_agent_id: '34991'
+    url: http://www.gutenberg.org/2009/agents/34991
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2010-01-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31075'
+  lccn: 02017768
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Regimental histories
+  -- Pennsylvania Infantry -- 190th'
+- !lcc 'E456'
+- !lcsh 'United States. Army. Pennsylvania Infantry Regiment, 190th (1864-1865)'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Regimental histories
+  -- Pennsylvania Infantry -- 191st'
+- !lcsh 'United States. Army. Pennsylvania Infantry Regiment, 191st (1864-1865)'
+title: "In The Ranks: From the Wilderness to Appomattox Court House\r\nThe War, as\
+  \ Seen and Experienced by a Private Soldier in the Army of the Potomac"
+url: http://www.gutenberg.org/ebooks/31075
